@@ -1,0 +1,14 @@
+
+body {
+    background-image: url("Bground.png");
+    background-repeat: no-repeat;
+}
+
+#Nav{
+    background-image: url("Banner.jpg");
+    background-repeat: no-repeat;
+}
+.w3-row-padding>.w3-quarter>img {
+    border-style: double;
+    border-width: 3px;
+}
