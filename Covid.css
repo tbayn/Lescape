@@ -1,0 +1,16 @@
+
+body {
+    background-image: url("Bground.png");
+    background-repeat: no-repeat;
+}
+
+#Nav{
+    background-image: url("Banner.jpg");
+    background-repeat: no-repeat;
+}
+
+#hover:hover{
+    transform: scale(1.03);
+    background-color:burlywood;
+    text-shadow: 3px 3px 5px black;
+}
